@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo img{
+    height: 2rem;
+    width: 3rem;
+}
+.signup-container{
+    padding: 20px;
+    width: 350px;
+}
+.v-100{
+    height: calc(100vh - 80px);
+}
+.justify-center{
+    justify-content: center;
+}
+.w-3{
+    width: 25%;
+    padding: 0px 12px;
+}
+.product-card{
+    box-shadow: 3px 5px 20px gray;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+.title{
+    margin: 20px 0px 10px !important;
+    font-size: 20px;
+}
+.dsc{
+    font-size: 14px;
+    color: grey;
+}
+.price{
+    font-size: 18px;
+    margin: 20px 0px;
+}
+.product-img {
+    height: 230px !important;
+    border-radius: 10px;
+}
